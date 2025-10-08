@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="221251" tvg-name="IN | Sony SET (TATAPLAY)" tvg-chno="111" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony SET
+https://allinonereborn.xyz/opplex998.m3u8?id=221251
 #EXTINF:-1 tvg-id="221251" tvg-name="IN | Sony SET (TATAPLAY)" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN | ENTERTAINMENT" tvg-chno="111",IN | Sony SET (TATAPLAY)
 https://allinonereborn.xyz/opplex998.m3u8?id=221251
 #EXTINF:-1 tvg-id="245015" tvg-name="•●★--- Welcome ----★●•" tvg-logo="" group-title="TENNIS",•●★--- Welcome ----★●•
@@ -5499,4 +5501,5 @@ https://allinonereborn.xyz/opplex998.m3u8?id=350121
 https://allinonereborn.xyz/opplex998.m3u8?id=350122
 #EXTINF:-1 tvg-id="350123" tvg-name="FR: CANAL+ Sport 360" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/c5e0963b89951b3efa29b9cda6103926.png" group-title="France ➾ Sports",FR: CANAL+ Sport 360
 https://allinonereborn.xyz/opplex998.m3u8?id=350123
+
 
